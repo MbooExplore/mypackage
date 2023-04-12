@@ -10,5 +10,5 @@ setup(
     install_requires=['numpy'],
     url='https://github.com/MbooExplore/mypackage',
     author='Mbongeni Mzila',
-    author_email='mbongenimzilam@gmail.com'
+    author_email='mbongenm@pepkor-dna.com'
 )
